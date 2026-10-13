@@ -1,0 +1,12 @@
+WEBSITE EMPRESA — INSTRUÇÕES
+1. Altere "Nome da Empresa" no index.html.
+2. Substitua empresa@exemplo.pt (no index.html e script.js) pelo email real.
+3. Substitua o número de telefone de exemplo.
+4. Personalize serviços e textos no index.html.
+5. Substitua os blocos de galeria por imagens reais, por exemplo:
+   <img src="imagens/trabalho1.jpg" alt="Descrição do trabalho" loading="lazy">
+   E adicione ao style.css: .gallery img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px}
+6. Publique index.html, style.css, script.js e imagens/ num repositório público.
+7. Em GitHub > Settings > Pages escolha Deploy from a branch, main e /(root).
+8. Para domínio próprio configure Custom domain e os registos DNS conforme a documentação oficial do GitHub Pages.
+NOTA: O formulário usa mailto e requer um cliente de email configurado no dispositivo do visitante.
